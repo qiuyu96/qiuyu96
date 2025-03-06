@@ -1,7 +1,7 @@
 ## Hi there 👋 
 My name is Qiuyu Wang (王秋雨),
 
-- 🔭 I’m currently a researcher in the vision group of the Interactive Intelligence Lab at Ant Group, led by [Yujun Shen](https://shenyujun.github.io/).
+- 🔭 I’m currently a research scientist in the vision group of the Interactive Intelligence Lab at Ant Group, led by [Yujun Shen](https://shenyujun.github.io/).
 
 - 📖 My research interests focus on computer vision, particularly on generative models and video / image editing.
 
