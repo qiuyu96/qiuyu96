@@ -3,7 +3,7 @@ My name is Qiuyu Wang (王秋雨),
 
 - 🔭 I’m currently a research scientist at the Interactive Intelligence Lab of [Ant Reseach](https://www.antresearch.com/), led by [Yujun Shen](https://shenyujun.github.io/).
 
-- 📖 My research interests focus on computer vision, particularly on generative models and video / image editing.
+- 📖 My research interests focus on computer vision, particularly on image / video generation and editing.
 
 - 📫 How to reach me: wangqiuyuu \<AT\> gmail \<dot\> com
 
